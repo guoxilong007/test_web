@@ -1,0 +1,108 @@
+2022-07-02 20:11:41,604-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:41,605-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:41,605-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:42,276-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:42,276-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:42,276-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:42,276-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:42,276-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:42,276-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,259-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:43,259-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:43,259-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:43,259-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,259-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,259-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,259-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,259-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,259-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,955-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:43,955-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:43,955-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:43,955-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:43,956-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,956-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,956-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,956-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,956-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,956-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,956-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:43,956-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,625-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:44,625-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:44,625-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:44,625-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:44,625-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:44,626-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,912-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:45,912-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:45,912-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:45,912-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:45,912-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:45,912-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:45,913-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:46,609-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:46,609-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:46,609-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:46,609-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:46,609-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:46,609-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:46,609-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,323-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:47,323-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:47,323-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:47,323-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:47,323-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:47,323-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:47,323-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:47,323-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-02 20:11:47,324-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！

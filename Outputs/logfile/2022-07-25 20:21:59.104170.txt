@@ -1,0 +1,187 @@
+2022-07-25 20:22:05,330-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:05,331-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:05,331-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：5，结束等待的时间为：5，共等待时长为：0
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：5，结束等待的时间为：5，共等待时长为：0
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：5，结束等待的时间为：5，共等待时长为：0
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A190203161
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A190203161
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A190203161
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A190203161
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-25 20:22:05,396-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入密码" and @type="password"]')元素内，输入的的内容是：long970224
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入密码" and @type="password"]')元素内，输入的的内容是：long970224
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入密码" and @type="password"]')元素内，输入的的内容是：long970224
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入密码" and @type="password"]')元素内，输入的的内容是：long970224
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入密码" and @type="password"]')元素内，输入的的内容是：long970224
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入密码" and @type="password"]')元素内，输入的的内容是：long970224
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入密码" and @type="password"]')
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入密码" and @type="password"]')
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入密码" and @type="password"]')
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入密码" and @type="password"]')
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入密码" and @type="password"]')
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入密码" and @type="password"]')
+2022-07-25 20:22:05,717-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//input[@placeholder="请输入密码" and @type="password"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 点击的元素是：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 点击的元素是：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 点击的元素是：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 点击的元素是：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 点击的元素是：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 点击的元素是：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 点击的元素是：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 点击的元素是：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:05,838-INFO-weblog.py-boxuegu-日志信息:所属模块：查到元素：('xpath', '//button[@type="button"]//span[text()="登录"]')
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:06,718-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//div[@class="name-wrap"]') 可见
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,909-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：6，结束等待的时间为：11，共等待时长为：5
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,959-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:11,960-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,329-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,896-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Outputs/screenshot/登录页面-登录模块_2022-07-25-20-22-42.png
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,961-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:42,962-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,372-ERROR-weblog.py-boxuegu-日志信息:等待元素失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！
+2022-07-25 20:22:47,375-ERROR-weblog.py-boxuegu-日志信息:截图失败！！！

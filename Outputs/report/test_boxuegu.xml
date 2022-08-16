@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="1" time="26.107" timestamp="2022-07-24T15:07:21.915258" hostname="wepiedeMBP-3.lan"><testcase classname="Testcase.test_login.TestLogin" name="test_dome" time="15.489"><failure message="assert False">self = &lt;Testcase.test_login.TestLogin object at 0x7fe8283bfe50&gt;
+
+    @pytest.mark.dome()
+    def test_dome(self):
+        print("我是dome")
+&gt;       assert False
+E       assert False
+
+Testcase/test_login.py:51: AssertionError</failure></testcase></testsuite></testsuites>

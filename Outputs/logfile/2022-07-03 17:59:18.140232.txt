@@ -1,0 +1,20 @@
+2022-07-03 17:59:22,980-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-03 17:59:23,098-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：22，结束等待的时间为：23，共等待时长为：1
+2022-07-03 17:59:23,098-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：22，结束等待的时间为：23，共等待时长为：1
+2022-07-03 17:59:23,099-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A1902031611
+2022-07-03 17:59:23,099-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A1902031611
+2022-07-03 17:59:23,099-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A1902031611
+2022-07-03 17:59:23,100-INFO-weblog.py-boxuegu-日志信息:查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-03 17:59:23,100-INFO-weblog.py-boxuegu-日志信息:查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-03 17:59:23,100-INFO-weblog.py-boxuegu-日志信息:查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-03 17:59:23,100-INFO-weblog.py-boxuegu-日志信息:查到元素：('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')
+2022-07-03 17:59:58,776-ERROR-weblog.py-boxuegu-日志信息:查到元素失败！！！
+2022-07-03 17:59:58,776-ERROR-weblog.py-boxuegu-日志信息:查到元素失败！！！
+2022-07-03 17:59:58,776-ERROR-weblog.py-boxuegu-日志信息:查到元素失败！！！
+2022-07-03 17:59:58,776-ERROR-weblog.py-boxuegu-日志信息:查到元素失败！！！
+2022-07-03 17:59:58,776-ERROR-weblog.py-boxuegu-日志信息:查到元素失败！！！
+2022-07-03 18:00:44,229-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Ootputs/screenshot/登录页面-登录模块_2022-07-03-18-00-20.png
+2022-07-03 18:00:44,229-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Ootputs/screenshot/登录页面-登录模块_2022-07-03-18-00-20.png
+2022-07-03 18:00:44,229-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Ootputs/screenshot/登录页面-登录模块_2022-07-03-18-00-20.png
+2022-07-03 18:00:44,229-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Ootputs/screenshot/登录页面-登录模块_2022-07-03-18-00-20.png
+2022-07-03 18:00:44,229-INFO-weblog.py-boxuegu-日志信息:截图成功，保存路径为：/Users/wepie/Desktop/class_webtest/Ootputs/screenshot/登录页面-登录模块_2022-07-03-18-00-20.png

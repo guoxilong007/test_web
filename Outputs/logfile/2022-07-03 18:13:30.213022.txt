@@ -1,0 +1,6 @@
+2022-07-03 18:13:35,945-INFO-weblog.py-boxuegu-日志信息:等待元素 ('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]') 可见
+2022-07-03 18:13:36,020-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：35，结束等待的时间为：36，共等待时长为：1
+2022-07-03 18:13:36,020-INFO-weblog.py-boxuegu-日志信息:开始等待的时间为：35，结束等待的时间为：36，共等待时长为：1
+2022-07-03 18:14:24,482-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A1902031611
+2022-07-03 18:14:24,482-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A1902031611
+2022-07-03 18:14:24,482-INFO-weblog.py-boxuegu-日志信息:登录页面-登录模块 在('xpath', '//input[@placeholder="请输入登录账号" and @class="el-input__inner"]')元素内，输入的的内容是：A1902031611
